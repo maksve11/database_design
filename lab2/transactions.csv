@@ -1,0 +1,16 @@
+id;transaction_kind;date;cost;user_id;book_id;subscription_id
+uuid1;1;01.01.2023;10.99;user_uuid1;book_uuid1;sub_uuid1
+uuid2;2;01.02.2023;5.00;user_uuid2;book_uuid2;sub_uuid2
+uuid3;1;01.03.2023;8.99;user_uuid3;book_uuid3;sub_uuid3
+uuid4;3;01.04.2023;12.50;user_uuid4;book_uuid4;sub_uuid4
+uuid5;1;01.05.2023;7.99;user_uuid5;book_uuid5;sub_uuid5
+uuid6;2;01.06.2023;6.99;user_uuid6;book_uuid6;sub_uuid6
+uuid7;3;01.07.2023;4.99;user_uuid7;book_uuid7;sub_uuid7
+uuid8;1;01.08.2023;9.99;user_uuid8;book_uuid8;sub_uuid8
+uuid9;2;01.09.2023;3.99;user_uuid9;book_uuid9;sub_uuid9
+uuid10;1;01.10.2023;11.99;user_uuid10;book_uuid10;sub_uuid10
+uuid11;3;01.11.2023;2.99;user_uuid11;book_uuid11;sub_uuid11
+uuid12;1;01.12.2023;5.99;user_uuid12;book_uuid12;sub_uuid12
+uuid13;2;15.01.2023;7.49;user_uuid13;book_uuid13;sub_uuid13
+uuid14;3;15.02.2023;8.49;user_uuid14;book_uuid14;sub_uuid14
+uuid15;1;15.03.2023;9.49;user_uuid15;book_uuid15;sub_uuid15
